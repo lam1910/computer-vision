@@ -1,0 +1,11 @@
+h5py
+jupyter
+numpy
+opencv-python
+opencv-contrib-python
+pandas
+Pillow
+scikit-image
+scikit-learn
+scipy
+matplotlib
